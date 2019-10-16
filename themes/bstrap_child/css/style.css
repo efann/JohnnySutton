@@ -335,3 +335,8 @@ header .container img
   color: gray;
 }
 
+.footer a:active,
+.footer a:hover
+{
+  color: #222;
+}
