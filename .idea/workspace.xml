@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ec92b1-00c1-486c-a929-fa69ad968743" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_glass_40_ffc73d_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_glass_40_ffc73d_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-hard_20_62453D_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-hard_20_62453D_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_33_62453D_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_33_62453D_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_35_222222_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_35_222222_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_44_444444_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_44_444444_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_loop_25_000000_21x21.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-bg_loop_25_000000_21x21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_62453D_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_62453D_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_a83300_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_a83300_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_cccccc_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_cccccc_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.structure.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/jquery-ui-1.12.1/jquery-ui.theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bstrap_child/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bstrap_child/css/style.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +18,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RefaExeDbFojPG3cyx6azOv7Av" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -58,15 +47,15 @@
       <recent name="D:\PhpStorm\JohnnySutton\themes\adminimal_child" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -89,6 +78,7 @@
       <workItem from="1571321704768" duration="1235000" />
       <workItem from="1572024312555" duration="3719000" />
       <workItem from="1573585585503" duration="232000" />
+      <workItem from="1579844147175" duration="26000" />
     </task>
     <servers />
   </component>
@@ -107,5 +97,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="446" key="publish.login" timestamp="1579844151983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="829" y="446" key="publish.login/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1579844151983" />
   </component>
 </project>
