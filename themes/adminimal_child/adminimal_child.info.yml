@@ -6,7 +6,9 @@ base theme: adminimal_theme
 
 
 version: '8.x'
-core: '8.x'
+core: 8.x
+core_version_requirement: ^8 || ^9
+
 project: 'adminimal_child'
 datestamp: 1558584490
 
