@@ -297,6 +297,10 @@ header .container img
 .view-display-id-page_display_content_by_taxonomy .views-row
 {
   padding: 20px;
+  /*
+    Some of the links are really long: this forces them to wrap.
+  */
+  word-wrap: break-word;
 }
 
 .view-display-id-page_display_content_by_taxonomy .views-row:nth-child(even)

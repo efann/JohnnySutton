@@ -50,6 +50,9 @@
             <excludedPath path="/var/www/johnnysutton.com/public_html/modules/simple_sitemap" />
             <excludedPath path="/var/www/johnnysutton.com/public_html/modules/weight" />
             <excludedPath path="/var/www/johnnysutton.com/public_html/modules/devel" />
+            <excludedPath path="/var/www/johnnysutton.com/public_html/modules/contrib" />
+            <excludedPath path="/var/www/johnnysutton.com/public_html/themes/contrib" />
+            <excludedPath path="/var/www/johnnysutton.com/public_html/README.md" />
           </excludedPaths>
         </serverdata>
       </paths>
