@@ -4,10 +4,9 @@ description: 'Drupal administration child (sub) theme with modern minimalist des
 # core: 8.x
 base theme: adminimal_theme
 
-
 version: '8.x'
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 
 project: 'adminimal_child'
 datestamp: 1558584490
