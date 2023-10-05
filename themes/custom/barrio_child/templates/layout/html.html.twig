@@ -47,18 +47,12 @@
       // http://stackoverflow.com/questions/6504982/jquery-behaving-strange-after-page-refresh-f5-in-chrome
       jQuery(document).ready(function ()
       {
-        // I'm not sure of another way to do this.
-        jQuery("html").css("backgroundColor", "#e7e7e8");
-
         Routines.initializeRoutines();
-
-        BarrioTheme.onResizeWrapperNavbar();
-
         Routines.setupWatermarks();
-        Routines.setupSloganDialog();
-        Routines.setupQuotesCarousel();
 
-        Beo.updateLinksWithExternalURLs('#main-wrapper');
+        Routines.loadIPAddressAJAX();
+
+        jQuery('img').css('display', 'inline-block');
       });
     </script>
 
