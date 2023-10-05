@@ -1,58 +1,37 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
-.idea/
-
 # Ignore server SSH settings
 .idea/ssh*.xml
 
-# =========================
-# Operating System Files
-# =========================
+.idea/
+.idea/workspace.xml
+/core/
+/libraries/
+/modules/contrib/
+/modules/README.txt
+/profiles/
+/sites/
+/themes/contrib/
+/themes/README.txt
+/vendor/
 
-# OSX
-# =========================
+/.csslintrc
+/.editorconfig
+/.eslintignore
+/.eslintrc.json
 
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# Windows
-# =========================
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
+/.ht.router.php
+/.htaccess
+/autoload.php
+/composer.json
+/composer.lock
+/example.gitignore
+/index.php
+/INSTALL.txt
+/LICENSE.txt
+/README.md
+/README.txt
+/robots.txt
+/update.php
+/web.config
