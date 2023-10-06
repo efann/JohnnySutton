@@ -2,7 +2,7 @@ name: Barrio Child
 type: theme
 description: 'Basic structure for a Bootstrap Barrio SubTheme.'
 core_version_requirement: ^9.4 || ^10
-base theme: bootstrap_barrio
+base theme: 'bootstrap_barrio'
 
 libraries:
   - barrio_child/bootstrap_cdn

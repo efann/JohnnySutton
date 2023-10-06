@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Adding the Barrio Bootstrap theme">
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Tweaking html template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696538143719</updated>
-      <workItem from="1696538147194" duration="5235000" />
+      <workItem from="1696538147194" duration="6775000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -220,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696544210211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tweaking html template">
+      <option name="closed" value="true" />
+      <created>1696545890532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696545890532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +248,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding the Barrio Bootstrap theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the Barrio Bootstrap theme" />
+    <MESSAGE value="Tweaking html template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tweaking html template" />
   </component>
 </project>

@@ -64,7 +64,7 @@ a:hover
 
 
 header a img,
-.footer a img
+.site-footer a img
 {
   opacity: 1.0;
   -moz-transition: opacity 0.25s ease;
@@ -74,9 +74,9 @@ header a img,
 }
 
 header a img:hover,
-.footer a img:hover
+.site-footer a img:hover
 {
-  opacity: 0.75;
+  opacity: 0.50;
   -moz-transition: opacity 0.25s ease;
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
@@ -318,7 +318,7 @@ header .container img
 /*----------------------------------------------------------------------------------------*/
 /* Footer */
 
-.footer
+.site-footer
 {
   background-image: url('/sites/default/files/images/header-footer/footer.jpg');
   /* Stretch the image. */
@@ -331,18 +331,18 @@ header .container img
 }
 
 /* Override setting in beo.routines. */
-.footer img
+.site-footer img
 {
   display: block;
 }
 
-.footer a
+.site-footer a
 {
-  color: gray;
+  color: rgb(128, 128, 128) !important;
 }
 
-.footer a:active,
-.footer a:hover
+.site-footer a:active,
+.site-footer a:hover
 {
-  color: #222;
+  color: #222 !important;
 }
