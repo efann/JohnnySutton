@@ -4,9 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Menu positioning updates">
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Image fade adjustment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/custom/custom/src/Controller/AjaxController.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/custom/custom/src/Controller/AjaxController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/js/routines.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/js/routines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/beo.routines/beo.routines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/beo.routines/beo.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/bstrap_child.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/bstrap_child.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/bstrap_child.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/config/install/bstrap_child.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/config/schema/bstrap_child.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_glass_40_ffc73d_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_highlight-hard_20_62453D_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_highlight-soft_33_62453D_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_highlight-soft_35_222222_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_highlight-soft_44_444444_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-bg_loop_25_000000_21x21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-icons_62453D_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-icons_a83300_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-icons_cccccc_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/jquery-ui-1.13.2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/images/required.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/js/routines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/templates/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/templates/menu/menu--custom-main-menu.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/templates/system/html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/bstrap_child/templates/system/page.html.twig" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +120,13 @@
   </component>
   <component name="DrupalConfiguration" enabled="true" version="8">
     <drupalPath>$PROJECT_DIR$</drupalPath>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -176,9 +225,9 @@
       <path value="$PROJECT_DIR$/vendor/consolidation/self-update" />
     </include_path>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WMMl9Ux8ACOHxI14mjE4oEjunL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -186,22 +235,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
-      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -210,7 +260,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696538143719</updated>
-      <workItem from="1696538147194" duration="8888000" />
+      <workItem from="1696538147194" duration="19512000" />
+      <workItem from="1696621267797" duration="5863000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -252,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696554422004</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Image fade adjustment">
+      <option name="closed" value="true" />
+      <created>1696554733998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696554733998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +334,7 @@
     <MESSAGE value="CSS tweaks for footer" />
     <MESSAGE value="CSS tweaks for ajax." />
     <MESSAGE value="Menu positioning updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu positioning updates" />
+    <MESSAGE value="Image fade adjustment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image fade adjustment" />
   </component>
 </project>

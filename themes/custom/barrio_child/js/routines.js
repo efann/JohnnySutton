@@ -16,7 +16,7 @@ var Routines =
     //----------------------------------------------------------------------------------------------------
     setupWatermarks: function ()
     {
-      var lcForm = Routines.CONTACT_BLOCK;
+      let lcForm = Routines.CONTACT_BLOCK;
       if (jQuery(lcForm).length == 0)
       {
         return;
@@ -44,7 +44,7 @@ var Routines =
         url: window.location.protocol + "//" + window.location.host + "/ajax/ip_address/0"
       }).done(function (tcData)
       {
-        var loIPAddress = jQuery("#ip_address");
+        let loIPAddress = jQuery("#ip_address");
 
         if (loIPAddress.length != 0)
         {
@@ -59,8 +59,8 @@ var Routines =
     //----------------------------------------------------------------------------------------------------
     showAJAX: function (tlShow)
     {
-      var lcAJAX = "#ajax-loading";
-      var loAJAX = jQuery(lcAJAX);
+      let lcAJAX = "#ajax-loading";
+      let loAJAX = jQuery(lcAJAX);
       if (loAJAX.length == 0)
       {
         alert("The HTML element " + lcAJAX + " does not exist!");
@@ -73,7 +73,7 @@ var Routines =
       }
       else
       {
-        loAJAX.hide();
+        loAJAX.fadeOut(750);
       }
 
     }

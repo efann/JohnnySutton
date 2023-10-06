@@ -30,7 +30,7 @@ class AjaxController
       else if ($tcType == 'ip_address')
       {
         $lcContentType = "text/plain; charset=us-ascii";
-        $lcGeneratedContent = $_SERVER['REMOTE_ADDR'] . '<br /><em>IP address</em>';;
+        $lcGeneratedContent = $_SERVER['REMOTE_ADDR'] . '&nbsp;<em>(IP address)</em>';;
       }
     }
     catch (\Exception $loErr)
