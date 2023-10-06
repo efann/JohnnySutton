@@ -76,7 +76,7 @@ header a img,
 header a img:hover,
 .site-footer a img:hover
 {
-  opacity: 0.50;
+  opacity: 0.7;
   -moz-transition: opacity 0.25s ease;
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
