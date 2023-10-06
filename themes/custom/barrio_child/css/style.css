@@ -93,14 +93,25 @@ header a img:hover,
   right: 0;
   position: fixed;
   z-index: 1100;
-  width: 42px;
-  height: 42px;
+  width: 3.0rem;
+  height: 3.0rem;
   top: 15px;
   border-radius: 15px;
   margin: 0 auto;
   display: none;
   background-color: white;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
 }
+
+#ajax-loading .text-info
+{
+  /*
+    Important is still needed to override .text-info, but it is limited to #ajax-loading
+  */
+  color: #62453D !important;
+}
+
 
 @media (min-width: 768px)
 {
@@ -108,16 +119,6 @@ header a img:hover,
   {
     top: 110px;
   }
-}
-
-#ajax-loading img
-{
-  /* Override beo.style.css img setting */
-  display: block;
-
-  width: 32px;
-  height: auto;
-  margin: 5px;
 }
 
 /*----------------------------------------------------------------------------------------*/
