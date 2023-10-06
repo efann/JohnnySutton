@@ -124,7 +124,7 @@ header a img:hover,
 /*----------------------------------------------------------------------------------------*/
 /* Header */
 
-header.navbar-fixed-top
+nav.navbar.fixed-top
 {
   background-image: url('/sites/default/files/images/header-footer/header.jpg');
   background-repeat: no-repeat;
@@ -181,15 +181,15 @@ header .container img
   Menus
 */
 
-.region-navigation-collapsible
+.collapse.navbar-collapse
 {
   overflow: hidden;
   margin-top: 0;
 }
 
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
-  .region-navigation-collapsible
+  .collapse.navbar-collapse
   {
     margin-top: 200px;
   }

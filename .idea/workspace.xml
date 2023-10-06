@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="CSS tweaks for footer">
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="CSS tweaks for ajax.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/css/style.css" afterDir="false" />
     </list>
@@ -210,7 +210,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696538143719</updated>
-      <workItem from="1696538147194" duration="7365000" />
+      <workItem from="1696538147194" duration="8585000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -236,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696551540048</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CSS tweaks for ajax.">
+      <option name="closed" value="true" />
+      <created>1696552218196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696552218196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +265,7 @@
     <MESSAGE value="Adding the Barrio Bootstrap theme" />
     <MESSAGE value="Tweaking html template" />
     <MESSAGE value="CSS tweaks for footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS tweaks for footer" />
+    <MESSAGE value="CSS tweaks for ajax." />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS tweaks for ajax." />
   </component>
 </project>
