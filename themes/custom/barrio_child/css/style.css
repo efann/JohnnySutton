@@ -139,12 +139,6 @@ header .container img
   display: block;
 }
 
-.container
-{
-  padding-left: 0;
-  padding-right: 0;
-}
-
 .navbar-inverse
 {
   background-color: #5C9CCC;
