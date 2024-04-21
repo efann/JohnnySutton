@@ -43,11 +43,6 @@ a:hover
   color: #808080;
 }
 
-#content
-{
-  min-height: 900px;
-}
-
 #main-wrapper
 {
   /* Matches the header height */
