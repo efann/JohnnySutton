@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Updating for Drupal 11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.libraries.yml" afterDir="false" />
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Updating for Bootstrap 5.3">
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/page.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/navigation/menu.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/navigation/menu.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,6 +213,7 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "WebServerToolWindowFactoryState": "true",
@@ -261,7 +260,7 @@
       <workItem from="1777149070033" duration="246000" />
       <workItem from="1777149350844" duration="716000" />
       <workItem from="1777150237648" duration="242000" />
-      <workItem from="1777221525866" duration="583000" />
+      <workItem from="1777221525866" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -319,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777149161626</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updating for Bootstrap 5.3">
+      <option name="closed" value="true" />
+      <created>1777222167788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777222167788</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +351,7 @@
     <MESSAGE value="Menu positioning updates" />
     <MESSAGE value="Image fade adjustment" />
     <MESSAGE value="Updating for Drupal 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating for Drupal 11" />
+    <MESSAGE value="Updating for Bootstrap 5.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating for Bootstrap 5.3" />
   </component>
 </project>
