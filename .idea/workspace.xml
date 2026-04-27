@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Updating for Bootstrap 5.3">
-      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/html.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/templates/layout/page.html.twig" afterDir="false" />
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Tweaks for menus &amp; loading icons.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,12 +94,12 @@
     &quot;assignee&quot;: &quot;efann&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/efann/JohnnySutton.git",
-    "accountId": "f8a2dddb-50d3-417f-a2a6-21e1274cec3b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/efann/JohnnySutton.git&quot;,
+    &quot;accountId&quot;: &quot;f8a2dddb-50d3-417f-a2a6-21e1274cec3b&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -207,34 +206,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PhpStorm/JohnnySutton",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PhpStorm/JohnnySutton&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -260,7 +259,8 @@
       <workItem from="1777149070033" duration="246000" />
       <workItem from="1777149350844" duration="716000" />
       <workItem from="1777150237648" duration="242000" />
-      <workItem from="1777221525866" duration="1604000" />
+      <workItem from="1777221525866" duration="2279000" />
+      <workItem from="1777230213982" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -326,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777222167788</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Tweaks for menus &amp; loading icons.">
+      <option name="closed" value="true" />
+      <created>1777223256595</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777223256595</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +360,7 @@
     <MESSAGE value="Image fade adjustment" />
     <MESSAGE value="Updating for Drupal 11" />
     <MESSAGE value="Updating for Bootstrap 5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating for Bootstrap 5.3" />
+    <MESSAGE value="Tweaks for menus &amp; loading icons." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tweaks for menus &amp; loading icons." />
   </component>
 </project>
