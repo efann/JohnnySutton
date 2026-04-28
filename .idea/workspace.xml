@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Tweaks for menus &amp; loading icons.">
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Removal of old bootstrap library references">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/barrio_child.libraries.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,6 +262,10 @@
       <workItem from="1777150237648" duration="242000" />
       <workItem from="1777221525866" duration="2279000" />
       <workItem from="1777230213982" duration="18000" />
+      <workItem from="1777256980528" duration="754000" />
+      <workItem from="1777322308351" duration="14000" />
+      <workItem from="1777404647671" duration="164000" />
+      <workItem from="1777404839217" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -334,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777223256595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Removal of old bootstrap library references">
+      <option name="closed" value="true" />
+      <created>1777257060025</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777257060025</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +374,7 @@
     <MESSAGE value="Updating for Drupal 11" />
     <MESSAGE value="Updating for Bootstrap 5.3" />
     <MESSAGE value="Tweaks for menus &amp; loading icons." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tweaks for menus &amp; loading icons." />
+    <MESSAGE value="Removal of old bootstrap library references" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removal of old bootstrap library references" />
   </component>
 </project>
