@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Update of bootstrap loading attributes." />
+    <list default="true" id="c4cf771f-d371-4e09-b802-6e7b9ef813fa" name="Changes" comment="Fixing document.write issues.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/barrio_child/js/beo.routines/beo.routines.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/barrio_child/js/beo.routines/beo.routines.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,6 +266,9 @@
       <workItem from="1777322308351" duration="14000" />
       <workItem from="1777404647671" duration="164000" />
       <workItem from="1777404839217" duration="175000" />
+      <workItem from="1777420560911" duration="765000" />
+      <workItem from="1777426487618" duration="15000" />
+      <workItem from="1777472171394" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the Barrio Bootstrap theme">
       <option name="closed" value="true" />
@@ -352,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777404985457</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fixing document.write issues.">
+      <option name="closed" value="true" />
+      <created>1777420710987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777420710987</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +395,7 @@
     <MESSAGE value="Tweaks for menus &amp; loading icons." />
     <MESSAGE value="Removal of old bootstrap library references" />
     <MESSAGE value="Update of bootstrap loading attributes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update of bootstrap loading attributes." />
+    <MESSAGE value="Fixing document.write issues." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing document.write issues." />
   </component>
 </project>
